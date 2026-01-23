@@ -6,7 +6,7 @@ PEIL Tool by LabSeis is a desktop application to calculate Pseudo Elastic Impeda
 
 ## 📥 Download App (Windows)
 
-Download aplikasi siap pakai di halaman **Releases**:
+Download the compiled Windows application here:
 
 👉 https://github.com/gilngpryga/PEIL-Pseudo-Elastic-Impedance-Lithology/releases
 
