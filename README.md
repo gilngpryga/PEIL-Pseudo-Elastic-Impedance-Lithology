@@ -1,6 +1,6 @@
 # PEIL Tool by LabSeis
 
-Simple Python desktop application to calculate **PEIL (Pseudo Elastic Impedance–Lithology)** and approximate porosity or density from well log data.
+PEIL Tool by LabSeis is a desktop application to calculate Pseudo Elastic Impedance–Lithology (PEIL) and approximate porosity or density from elastic well log data.
 
 ---
 
