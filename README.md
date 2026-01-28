@@ -17,12 +17,7 @@ Download the compiled Windows application here:
 <p align="center">
   <img src="Screenshot PEIL_1.png" width="50%">
   <img src="Screenshot PEIL_2.png" width="50%">
-  <img src="Screenshot PEIL_4.png" width="50%">
-</p>
-
-<p align="center">
   <img src="Screenshot PEIL_3.png" width="50%">
-  <img src="Screenshot PEIL_5.png" width="50%">
 </p>
 
 ---
